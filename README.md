@@ -1,2 +1,2 @@
 # wiki
-personal wiki
+My wiki
